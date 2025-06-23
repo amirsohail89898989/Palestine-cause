@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Palestine Cause (PSC)</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #1a1a1a;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    header {
+      background: linear-gradient(to right, #000, #007b00, #ff0000);
+      padding: 30px 10px;
+    }
+    header img {
+      width: 120px;
+      border-radius: 50%;
+      border: 2px solid #fff;
+    }
+    h1 {
+      margin: 10px 0 5px;
+      font-size: 2.5rem;
+    }
+    p {
+      font-size: 1.2rem;
+      color: #ccc;
+    }
+    .details {
+      margin-top: 30px;
+      background: #111;
+      padding: 20px;
+      border-radius: 12px;
+      display: inline-block;
+      text-align: left;
+    }
+    .details h2 {
+      color: #fff;
+      border-bottom: 1px solid #444;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+    }
+    footer {
+      margin-top: 30px;
+      color: #999;
+      font-size: 0.9rem;
+    }
+    .button {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background: #ff0000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s;
+    }
+    .button:hover {
+      background: #cc0000;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="Palestine Cause Token Logo">
+  <h1>Palestine Cause (PSC)</h1>
+  <p>Support Palestine 🇵🇸 | Crypto for a Cause</p>
+</header>
+
+<section class="details">
+  <h2>Token Details</h2>
+  <p><strong>Symbol:</strong> PSC</p>
+  <p><strong>Total Supply:</strong> 1000</p>
+  <p><strong>Starting Price:</strong> 0.5 USDT</p>
+  <p><strong>Blockchain:</strong> Solana (SPL Token)</p>
+  <p><strong>Liquidity:</strong> 35 USDT</p>
+</section>
+
+<a class="button" href="https://solscan.io/token/PASTE_YOUR_TOKEN_ADDRESS_HERE" target="_blank">View on Solscan</a>
+
+<footer>
+  <p>Join our movement | Telegram: <a href="https://t.me/PalestineCryptoSupport" style="color: #fff;">@PalestineCryptoSupport</a></p>
+  <p>© 2025 Palestine Cause</p>
+</footer>
+
+</body>
+</html>
